@@ -1,0 +1,5443 @@
+{
+  "files": [
+    {
+      "path": "/",
+      "ip": "Unknown",
+      "views": 347
+    },
+    {
+      "path": "/short",
+      "ip": "Unknown",
+      "views": 113
+    },
+    {
+      "path": "/gallery",
+      "ip": "Unknown",
+      "views": 20
+    },
+    {
+      "path": "/mBOd",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/mBOd.png",
+      "showCase": false
+    },
+    {
+      "path": "/wYHAt",
+      "ip": "127.0.0.1",
+      "views": 0
+    },
+    {
+      "path": "/pbbG",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/pbbG.png",
+      "showCase": false
+    },
+    {
+      "path": "/WuPi",
+      "ip": "127.0.0.1",
+      "views": 0
+    },
+    {
+      "path": "/5ltv",
+      "ip": "127.0.0.1",
+      "views": 0
+    },
+    {
+      "path": "/3qgS",
+      "ip": "127.0.0.1",
+      "views": 1,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/3qgS.png",
+      "showCase": false
+    },
+    {
+      "path": "/N8Mm",
+      "ip": "127.0.0.1",
+      "views": 12,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/N8Mm.png",
+      "showCase": false
+    },
+    {
+      "path": "/AhOY",
+      "ip": "127.0.0.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/AhOY.png",
+      "showCase": false
+    },
+    {
+      "path": "/9ML9",
+      "ip": "127.0.0.1",
+      "views": 13,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/9ML9.png",
+      "showCase": false
+    },
+    {
+      "path": "/lFfu",
+      "ip": "127.0.0.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/lFfu.png",
+      "showCase": false
+    },
+    {
+      "path": "/HSkU",
+      "ip": "127.0.0.1",
+      "views": 11,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/HSkU.png",
+      "showCase": false
+    },
+    {
+      "path": "/sj6o",
+      "ip": "127.0.0.1",
+      "views": 9,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/sj6o.png",
+      "showCase": false
+    },
+    {
+      "path": "/FtDG",
+      "ip": "127.0.0.1",
+      "views": 10,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/FtDG.png",
+      "showCase": false
+    },
+    {
+      "path": "/miA6",
+      "ip": "127.0.0.1",
+      "views": 8,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/miA6.png",
+      "showCase": false
+    },
+    {
+      "path": "/7Osc",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/7Osc.png",
+      "showCase": false
+    },
+    {
+      "path": "/nigk",
+      "ip": "127.0.0.1",
+      "views": 67,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/nigk.png",
+      "showCase": false
+    },
+    {
+      "path": "/vkT9",
+      "ip": "127.0.0.1",
+      "views": 5,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/vkT9.png",
+      "showCase": false
+    },
+    {
+      "path": "/0Je",
+      "ip": "127.0.0.1",
+      "views": 2
+    },
+    {
+      "path": "/hBR",
+      "ip": "127.0.0.1",
+      "views": 1
+    },
+    {
+      "path": "/hBr",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/vkT9.png",
+      "ip": "Unknown",
+      "views": 9
+    },
+    {
+      "path": "/nigk.png",
+      "ip": "Unknown",
+      "views": 9
+    },
+    {
+      "path": "/7Osc.png",
+      "ip": "Unknown",
+      "views": 9
+    },
+    {
+      "path": "/miA6.png",
+      "ip": "Unknown",
+      "views": 9
+    },
+    {
+      "path": "/FtDG.png",
+      "ip": "Unknown",
+      "views": 9
+    },
+    {
+      "path": "/mBOd.png",
+      "ip": "Unknown",
+      "views": 9
+    },
+    {
+      "path": "/N8Mm.png",
+      "ip": "Unknown",
+      "views": 9
+    },
+    {
+      "path": "/HSkU.png",
+      "ip": "Unknown",
+      "views": 9
+    },
+    {
+      "path": "/9ML9.png",
+      "ip": "Unknown",
+      "views": 9
+    },
+    {
+      "path": "/AhOY.png",
+      "ip": "Unknown",
+      "views": 9
+    },
+    {
+      "path": "/pbbG.png",
+      "ip": "Unknown",
+      "views": 9
+    },
+    {
+      "path": "/3qgS.png",
+      "ip": "Unknown",
+      "views": 9
+    },
+    {
+      "path": "/sample.png",
+      "ip": "Unknown",
+      "views": 9
+    },
+    {
+      "path": "/lFfu.png",
+      "ip": "Unknown",
+      "views": 9
+    },
+    {
+      "path": "/sj6o.png",
+      "ip": "Unknown",
+      "views": 9
+    },
+    {
+      "path": "/aw6L",
+      "ip": "127.0.0.1",
+      "views": 27,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/aw6L.png",
+      "showCase": false
+    },
+    {
+      "path": "/kIVj",
+      "ip": "127.0.0.1",
+      "views": 44,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/kIVj.png",
+      "showCase": false
+    },
+    {
+      "path": "/U6ln",
+      "ip": "127.0.0.1",
+      "views": 41,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/U6ln.png",
+      "showCase": false
+    },
+    {
+      "path": "/texO",
+      "ip": "127.0.0.1",
+      "views": 45,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/texO.png",
+      "showCase": false
+    },
+    {
+      "path": "/IzFf",
+      "ip": "127.0.0.1",
+      "views": 52,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/IzFf.png",
+      "showCase": false
+    },
+    {
+      "path": "/Q65t",
+      "ip": "127.0.0.1",
+      "views": 58,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/Q65t.png",
+      "showCase": false
+    },
+    {
+      "path": "/rOJv",
+      "ip": "127.0.0.1",
+      "views": 60,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/rOJv.png",
+      "showCase": false
+    },
+    {
+      "path": "/wZNH",
+      "ip": "127.0.0.1",
+      "views": 57,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/wZNH.png",
+      "showCase": false
+    },
+    {
+      "path": "/aULa",
+      "ip": "127.0.0.1",
+      "views": 21,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/aULa.png",
+      "showCase": false
+    },
+    {
+      "path": "/hDGl",
+      "ip": "127.0.0.1",
+      "views": 51,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/hDGl.png",
+      "showCase": false
+    },
+    {
+      "path": "/hDGl.png",
+      "ip": "Unknown",
+      "views": 8
+    },
+    {
+      "path": "/wZNH.png",
+      "ip": "Unknown",
+      "views": 8
+    },
+    {
+      "path": "/aULa.png",
+      "ip": "Unknown",
+      "views": 8
+    },
+    {
+      "path": "/rOJv.png",
+      "ip": "Unknown",
+      "views": 8
+    },
+    {
+      "path": "/IzFf.png",
+      "ip": "Unknown",
+      "views": 8
+    },
+    {
+      "path": "/Q65t.png",
+      "ip": "Unknown",
+      "views": 8
+    },
+    {
+      "path": "/texO.png",
+      "ip": "Unknown",
+      "views": 8
+    },
+    {
+      "path": "/U6ln.png",
+      "ip": "Unknown",
+      "views": 8
+    },
+    {
+      "path": "/kIVj.png",
+      "ip": "Unknown",
+      "views": 8
+    },
+    {
+      "path": "/aw6L.png",
+      "ip": "Unknown",
+      "views": 8
+    },
+    {
+      "path": "/xkCx",
+      "ip": "127.0.0.1",
+      "views": 1,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/xkCx.png",
+      "showCase": false
+    },
+    {
+      "path": "/sB5",
+      "ip": "127.0.0.1",
+      "views": 1
+    },
+    {
+      "path": "/e84p",
+      "ip": "127.0.0.1",
+      "views": 9,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/e84p.png",
+      "showCase": false
+    },
+    {
+      "path": "/jCUv",
+      "ip": "127.0.0.1",
+      "views": 1,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/jCUv.png",
+      "showCase": false
+    },
+    {
+      "path": "/4Gmx",
+      "ip": "127.0.0.1",
+      "views": 1,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/4Gmx.png",
+      "showCase": false
+    },
+    {
+      "path": "/BTc2",
+      "ip": "127.0.0.1",
+      "views": 8,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/BTc2.png",
+      "showCase": false
+    },
+    {
+      "path": "/JBVs",
+      "ip": "127.0.0.1",
+      "views": 1,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/JBVs.png",
+      "showCase": false
+    },
+    {
+      "path": "/0X3M",
+      "ip": "127.0.0.1",
+      "views": 1,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/0X3M.png",
+      "showCase": false
+    },
+    {
+      "path": "/hwQN",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/hwQN.png",
+      "showCase": false
+    },
+    {
+      "path": "/hdWH",
+      "ip": "127.0.0.1",
+      "views": 45,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/hdWH.png",
+      "showCase": false
+    },
+    {
+      "path": "/u6ZA",
+      "ip": "127.0.0.1",
+      "views": 14,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/u6ZA.png",
+      "showCase": false
+    },
+    {
+      "path": "/9sUb",
+      "ip": "127.0.0.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/9sUb.png",
+      "showCase": false
+    },
+    {
+      "path": "/k8WP",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/k8WP.png",
+      "showCase": false
+    },
+    {
+      "path": "/upload",
+      "ip": "Unknown",
+      "views": 58
+    },
+    {
+      "path": "/fNZM",
+      "ip": "127.0.0.1",
+      "views": 8,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/fNZM.png",
+      "showCase": false
+    },
+    {
+      "path": "/KWnn",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../passwordUploads/KWnn.0",
+      "showCase": false
+    },
+    {
+      "path": "/JP1y",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../passwordUploads/JP1y.yml",
+      "showCase": false
+    },
+    {
+      "path": "/fNZM.png",
+      "ip": "Unknown",
+      "views": 8
+    },
+    {
+      "path": "/k8WP.png",
+      "ip": "Unknown",
+      "views": 7
+    },
+    {
+      "path": "/9sUb.png",
+      "ip": "Unknown",
+      "views": 11
+    },
+    {
+      "path": "/hdWH.png",
+      "ip": "Unknown",
+      "views": 7
+    },
+    {
+      "path": "/u6ZA.png",
+      "ip": "Unknown",
+      "views": 7
+    },
+    {
+      "path": "/hwQN.png",
+      "ip": "Unknown",
+      "views": 8
+    },
+    {
+      "path": "/0X3M.png",
+      "ip": "Unknown",
+      "views": 11
+    },
+    {
+      "path": "/JBVs.png",
+      "ip": "Unknown",
+      "views": 7
+    },
+    {
+      "path": "/BTc2.png",
+      "ip": "Unknown",
+      "views": 7
+    },
+    {
+      "path": "/4Gmx.png",
+      "ip": "Unknown",
+      "views": 6
+    },
+    {
+      "path": "/jCUv.png",
+      "ip": "Unknown",
+      "views": 7
+    },
+    {
+      "path": "/e84p.png",
+      "ip": "Unknown",
+      "views": 11
+    },
+    {
+      "path": "/xkCx.png",
+      "ip": "Unknown",
+      "views": 7
+    },
+    {
+      "path": "/KOOB",
+      "ip": "127.0.0.1",
+      "views": 14,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/KOOB.png",
+      "showCase": false
+    },
+    {
+      "path": "/Xkrw",
+      "ip": "127.0.0.1",
+      "views": 9,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/Xkrw.png",
+      "showCase": false
+    },
+    {
+      "path": "/ariQ",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/ariQ.png",
+      "showCase": false
+    },
+    {
+      "path": "/QvwE",
+      "ip": "127.0.0.1",
+      "views": 3,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/QvwE.png",
+      "showCase": false
+    },
+    {
+      "path": "/NRkf",
+      "ip": "127.0.0.1",
+      "views": 3,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/NRkf.png",
+      "showCase": false
+    },
+    {
+      "path": "/KVMz",
+      "ip": "127.0.0.1",
+      "views": 4,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/KVMz.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/lBs",
+      "ip": "127.0.0.1",
+      "views": 1
+    },
+    {
+      "path": "/IBx",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/IBs",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/lBx",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/P0s",
+      "ip": "127.0.0.1",
+      "views": 2
+    },
+    {
+      "path": "/SAq",
+      "ip": "127.0.0.1",
+      "views": 10
+    },
+    {
+      "path": "/nice%20ports%2C/Tri%6Eity.txt%2ebak",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/twni",
+      "ip": "127.0.0.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/twni.png",
+      "showCase": false
+    },
+    {
+      "path": "/IPNa",
+      "ip": "127.0.0.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/IPNa.png",
+      "showCase": false
+    },
+    {
+      "path": "/BDiH",
+      "ip": "127.0.0.1",
+      "views": 8,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/BDiH.png",
+      "showCase": false
+    },
+    {
+      "path": "/5ZNi",
+      "ip": "127.0.0.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/5ZNi.png",
+      "showCase": false
+    },
+    {
+      "path": "/0iZj",
+      "ip": "127.0.0.1",
+      "views": 1,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/0iZj.png",
+      "showCase": false
+    },
+    {
+      "path": "/hmFw",
+      "ip": "127.0.0.1",
+      "views": 1,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/hmFw.png",
+      "showCase": false
+    },
+    {
+      "path": "/7WR",
+      "ip": "127.0.0.1",
+      "views": 1
+    },
+    {
+      "path": "/ywVQ",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/ywVQ.png",
+      "showCase": false
+    },
+    {
+      "path": "/ywVQ.png",
+      "ip": "Unknown",
+      "views": 6
+    },
+    {
+      "path": "/hmFw.png",
+      "ip": "Unknown",
+      "views": 6
+    },
+    {
+      "path": "/0iZj.png",
+      "ip": "Unknown",
+      "views": 6
+    },
+    {
+      "path": "/5ZNi.png",
+      "ip": "Unknown",
+      "views": 6
+    },
+    {
+      "path": "/BDiH.png",
+      "ip": "Unknown",
+      "views": 6
+    },
+    {
+      "path": "/IPNa.png",
+      "ip": "Unknown",
+      "views": 6
+    },
+    {
+      "path": "/twni.png",
+      "ip": "Unknown",
+      "views": 5
+    },
+    {
+      "path": "/KVMz.jpg",
+      "ip": "Unknown",
+      "views": 6
+    },
+    {
+      "path": "/NRkf.png",
+      "ip": "Unknown",
+      "views": 6
+    },
+    {
+      "path": "/QvwE.png",
+      "ip": "Unknown",
+      "views": 6
+    },
+    {
+      "path": "/ariQ.png",
+      "ip": "Unknown",
+      "views": 6
+    },
+    {
+      "path": "/Xkrw.png",
+      "ip": "Unknown",
+      "views": 6
+    },
+    {
+      "path": "/KOOB.png",
+      "ip": "Unknown",
+      "views": 6
+    },
+    {
+      "path": "/t8r",
+      "ip": "127.0.0.1",
+      "views": 1
+    },
+    {
+      "path": "/QKUR",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../passwordUploads/QKUR.yml",
+      "showCase": false
+    },
+    {
+      "path": "/c3Vi",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../passwordUploads/c3Vi.yml",
+      "showCase": false
+    },
+    {
+      "path": "/2am2",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../passwordUploads/2am2.yml",
+      "showCase": false
+    },
+    {
+      "path": "/shareserver",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/shareserver/",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/shareserver/assets/css/styles.min.css",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/shareserver/afterBox.js",
+      "ip": "Unknown",
+      "views": 489
+    },
+    {
+      "path": "/shareserver/aftexBox.js",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/tGZa",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../passwordUploads/tGZa.yml",
+      "showCase": false
+    },
+    {
+      "path": "/paste",
+      "ip": "Unknown",
+      "views": 4
+    },
+    {
+      "path": "/pYN",
+      "ip": "127.0.0.1",
+      "views": 0
+    },
+    {
+      "path": "/fMKx",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../passwordUploads/fMKx.mp4",
+      "showCase": false
+    },
+    {
+      "path": "/1GOB",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../passwordUploads/1GOB.mp4",
+      "showCase": false
+    },
+    {
+      "path": "/n0nJl",
+      "ip": "127.0.0.1",
+      "views": 1
+    },
+    {
+      "path": "/TUBt",
+      "ip": "127.0.0.1",
+      "views": 9,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/TUBt.png",
+      "showCase": false
+    },
+    {
+      "path": "/hxRm",
+      "ip": "127.0.0.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/hxRm.png",
+      "showCase": false
+    },
+    {
+      "path": "/QQgZ",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/QQgZ.png",
+      "showCase": false
+    },
+    {
+      "path": "/nuDz",
+      "ip": "127.0.0.1",
+      "views": 28,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/nuDz.png",
+      "showCase": false
+    },
+    {
+      "path": "/JBAl",
+      "ip": "127.0.0.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/JBAl.png",
+      "showCase": false
+    },
+    {
+      "path": "/89I3",
+      "ip": "127.0.0.1",
+      "views": 5,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/89I3.png",
+      "showCase": false
+    },
+    {
+      "path": "/93e6",
+      "ip": "127.0.0.1",
+      "views": 4,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/93e6.png",
+      "showCase": false
+    },
+    {
+      "path": "/tNkn",
+      "ip": "127.0.0.1",
+      "views": 5,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/tNkn.png",
+      "showCase": false
+    },
+    {
+      "path": "/YV23",
+      "ip": "127.0.0.1",
+      "views": 8,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/YV23.png",
+      "showCase": false
+    },
+    {
+      "path": "/DkiL",
+      "ip": "127.0.0.1",
+      "views": 10,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/DkiL.png",
+      "showCase": false
+    },
+    {
+      "path": "/56ER",
+      "ip": "127.0.0.1",
+      "views": 14,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/56ER.png",
+      "showCase": false
+    },
+    {
+      "path": "/SO2H",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/SO2H.png",
+      "showCase": false
+    },
+    {
+      "path": "/DzKi",
+      "ip": "127.0.0.1",
+      "views": 4,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/DzKi.png",
+      "showCase": false
+    },
+    {
+      "path": "/fCp5",
+      "ip": "127.0.0.1",
+      "views": 14,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/fCp5.png",
+      "showCase": false
+    },
+    {
+      "path": "/uvJg",
+      "ip": "127.0.0.1",
+      "views": 2,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../passwordUploads/uvJg.mp3",
+      "showCase": false
+    },
+    {
+      "path": "/uvJg.mp3",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/xJ9i",
+      "ip": "127.0.0.1",
+      "views": 10,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/xJ9i.png",
+      "showCase": false
+    },
+    {
+      "path": "/BK1o",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/BK1o.png",
+      "showCase": false
+    },
+    {
+      "path": "/wv61",
+      "ip": "127.0.0.1",
+      "views": 8,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/wv61.png",
+      "showCase": false
+    },
+    {
+      "path": "/wzsW",
+      "ip": "127.0.0.1",
+      "views": 18,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/wzsW.png",
+      "showCase": false
+    },
+    {
+      "path": "/3VNi",
+      "ip": "127.0.0.1",
+      "views": 8,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/3VNi.png",
+      "showCase": false
+    },
+    {
+      "path": "/JaqA",
+      "ip": "127.0.0.1",
+      "views": 9,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/JaqA.png",
+      "showCase": false
+    },
+    {
+      "path": "/fUpM",
+      "ip": "127.0.0.1",
+      "views": 1,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/fUpM.png",
+      "showCase": false
+    },
+    {
+      "path": "/yFIF",
+      "ip": "127.0.0.1",
+      "views": 1,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/yFIF.png",
+      "showCase": false
+    },
+    {
+      "path": "/xEN1",
+      "ip": "127.0.0.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/xEN1.png",
+      "showCase": false
+    },
+    {
+      "path": "/L7fu",
+      "ip": "127.0.0.1",
+      "views": 34,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/L7fu.png",
+      "showCase": false
+    },
+    {
+      "path": "/bdAR",
+      "ip": "127.0.0.1",
+      "views": 25,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/bdAR.png",
+      "showCase": false
+    },
+    {
+      "path": "/xKaD.mp4",
+      "ip": "192.168.1.1",
+      "views": 0,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/xKaD.mp4",
+      "showCase": false
+    },
+    {
+      "path": "/R0Fw",
+      "ip": "192.168.1.1",
+      "views": 10,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/R0Fw.png",
+      "showCase": false
+    },
+    {
+      "path": "/LmSl",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../passwordUploads/LmSl.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/LmSl.jpg",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/LmSl/",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/LmSl/assets/css/styles.min.css",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/KIsF",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../passwordUploads/KIsF.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/2hOA",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/2hOA.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/pSM",
+      "ip": "192.168.1.101",
+      "views": 0
+    },
+    {
+      "path": "/2hOA.jpg",
+      "ip": "Unknown",
+      "views": 6
+    },
+    {
+      "path": "/R0Fw.png",
+      "ip": "Unknown",
+      "views": 4
+    },
+    {
+      "path": "/bdAR.png",
+      "ip": "Unknown",
+      "views": 4
+    },
+    {
+      "path": "/L7fu.png",
+      "ip": "Unknown",
+      "views": 4
+    },
+    {
+      "path": "/xEN1.png",
+      "ip": "Unknown",
+      "views": 5
+    },
+    {
+      "path": "/yFIF.png",
+      "ip": "Unknown",
+      "views": 9
+    },
+    {
+      "path": "/fUpM.png",
+      "ip": "Unknown",
+      "views": 9
+    },
+    {
+      "path": "/JaqA.png",
+      "ip": "Unknown",
+      "views": 9
+    },
+    {
+      "path": "/3VNi.png",
+      "ip": "Unknown",
+      "views": 9
+    },
+    {
+      "path": "/wzsW.png",
+      "ip": "Unknown",
+      "views": 5
+    },
+    {
+      "path": "/wv61.png",
+      "ip": "Unknown",
+      "views": 4
+    },
+    {
+      "path": "/BK1o.png",
+      "ip": "Unknown",
+      "views": 4
+    },
+    {
+      "path": "/fCp5.png",
+      "ip": "Unknown",
+      "views": 4
+    },
+    {
+      "path": "/xJ9i.png",
+      "ip": "Unknown",
+      "views": 5
+    },
+    {
+      "path": "/DzKi.png",
+      "ip": "Unknown",
+      "views": 5
+    },
+    {
+      "path": "/SO2H.png",
+      "ip": "Unknown",
+      "views": 5
+    },
+    {
+      "path": "/56ER.png",
+      "ip": "Unknown",
+      "views": 5
+    },
+    {
+      "path": "/DkiL.png",
+      "ip": "Unknown",
+      "views": 4
+    },
+    {
+      "path": "/YV23.png",
+      "ip": "Unknown",
+      "views": 4
+    },
+    {
+      "path": "/tNkn.png",
+      "ip": "Unknown",
+      "views": 4
+    },
+    {
+      "path": "/93e6.png",
+      "ip": "Unknown",
+      "views": 4
+    },
+    {
+      "path": "/89I3.png",
+      "ip": "Unknown",
+      "views": 5
+    },
+    {
+      "path": "/JBAl.png",
+      "ip": "Unknown",
+      "views": 4
+    },
+    {
+      "path": "/QQgZ.png",
+      "ip": "Unknown",
+      "views": 5
+    },
+    {
+      "path": "/nuDz.png",
+      "ip": "Unknown",
+      "views": 5
+    },
+    {
+      "path": "/hxRm.png",
+      "ip": "Unknown",
+      "views": 4
+    },
+    {
+      "path": "/TUBt.png",
+      "ip": "Unknown",
+      "views": 4
+    },
+    {
+      "path": "/fMes",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/fMes.png",
+      "showCase": false
+    },
+    {
+      "path": "/whRa",
+      "ip": "192.168.1.1",
+      "views": 5,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/whRa.png",
+      "showCase": false
+    },
+    {
+      "path": "/xbB2",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/xbB2.png",
+      "showCase": false
+    },
+    {
+      "path": "/Hov8",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/Hov8.png",
+      "showCase": false
+    },
+    {
+      "path": "/pK3h",
+      "ip": "192.168.1.1",
+      "views": 9,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/pK3h.png",
+      "showCase": false
+    },
+    {
+      "path": "/6mq8",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/6mq8.png",
+      "showCase": false
+    },
+    {
+      "path": "/3kFX",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/3kFX.png",
+      "showCase": false
+    },
+    {
+      "path": "/xD9x",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/xD9x.png",
+      "showCase": false
+    },
+    {
+      "path": "/KaOJ",
+      "ip": "192.168.1.1",
+      "views": 5,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/KaOJ.png",
+      "showCase": false
+    },
+    {
+      "path": "/TPG4",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/TPG4.png",
+      "showCase": false
+    },
+    {
+      "path": "/jDqr",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/jDqr.png",
+      "showCase": false
+    },
+    {
+      "path": "/G4PN",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/G4PN.png",
+      "showCase": false
+    },
+    {
+      "path": "/w27o",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/w27o.png",
+      "showCase": false
+    },
+    {
+      "path": "/733N",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/733N.png",
+      "showCase": false
+    },
+    {
+      "path": "/EGMi",
+      "ip": "192.168.1.1",
+      "views": 5,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/EGMi.png",
+      "showCase": false
+    },
+    {
+      "path": "/vmAF",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/vmAF.png",
+      "showCase": false
+    },
+    {
+      "path": "/OtEo",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/OtEo.png",
+      "showCase": false
+    },
+    {
+      "path": "/Zxy4",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/Zxy4.png",
+      "showCase": false
+    },
+    {
+      "path": "/H6Xf",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/H6Xf.png",
+      "showCase": false
+    },
+    {
+      "path": "/RKUq",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/RKUq.png",
+      "showCase": false
+    },
+    {
+      "path": "/K1Gx",
+      "ip": "192.168.1.1",
+      "views": 11,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/K1Gx.png",
+      "showCase": false
+    },
+    {
+      "path": "/5F3",
+      "ip": "192.168.1.101",
+      "views": 1
+    },
+    {
+      "path": "/SF3",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/K1Gx.png",
+      "ip": "Unknown",
+      "views": 4
+    },
+    {
+      "path": "/733N.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/w27o.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/xD9x.png",
+      "ip": "Unknown",
+      "views": 4
+    },
+    {
+      "path": "/6mq8.png",
+      "ip": "Unknown",
+      "views": 4
+    },
+    {
+      "path": "/pK3h.png",
+      "ip": "Unknown",
+      "views": 4
+    },
+    {
+      "path": "/RKUq.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/H6Xf.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/EGMi.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/3kFX.png",
+      "ip": "Unknown",
+      "views": 4
+    },
+    {
+      "path": "/TPG4.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/Zxy4.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/G4PN.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/jDqr.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/OtEo.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/vmAF.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/KaOJ.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/Hov8.png",
+      "ip": "Unknown",
+      "views": 5
+    },
+    {
+      "path": "/xbB2.png",
+      "ip": "Unknown",
+      "views": 4
+    },
+    {
+      "path": "/whRa.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/fMes.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/api/paste",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/api/assets/css/styles.min.css",
+      "ip": "Unknown",
+      "views": 6
+    },
+    {
+      "path": "/wp-login.php",
+      "ip": "Unknown",
+      "views": 38
+    },
+    {
+      "path": "/css/404.css",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/css/palette1.scss",
+      "ip": "Unknown",
+      "views": 377
+    },
+    {
+      "path": "/atrK",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/atrK.png",
+      "showCase": false
+    },
+    {
+      "path": "/w4Vd",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/w4Vd.png",
+      "showCase": false
+    },
+    {
+      "path": "/paste.html",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/api/atom-one-dark.css",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/api/paste.css",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/MnUqG",
+      "ip": "192.168.1.1",
+      "views": 3
+    },
+    {
+      "path": "/uG3Y",
+      "ip": "192.168.1.1",
+      "views": 3,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../passwordUploads/uG3Y.mp4",
+      "showCase": false
+    },
+    {
+      "path": "/9pll.mp4",
+      "ip": "192.168.1.1",
+      "views": 13,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/9pll.mp4",
+      "showCase": false
+    },
+    {
+      "path": "/tmax",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/tmax.png",
+      "showCase": false
+    },
+    {
+      "path": "/PLHa",
+      "ip": "192.168.1.1",
+      "views": 10,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/PLHa.png",
+      "showCase": false
+    },
+    {
+      "path": "/jx2L",
+      "ip": "192.168.1.1",
+      "views": 5,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/jx2L.png",
+      "showCase": false
+    },
+    {
+      "path": "/W7I8",
+      "ip": "192.168.1.1",
+      "views": 5,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/W7I8.png",
+      "showCase": false
+    },
+    {
+      "path": "/JvrG",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/JvrG.png",
+      "showCase": false
+    },
+    {
+      "path": "/T8qA",
+      "ip": "192.168.1.1",
+      "views": 5,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/T8qA.png",
+      "showCase": false
+    },
+    {
+      "path": "/66me",
+      "ip": "192.168.1.1",
+      "views": 5,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/66me.png",
+      "showCase": false
+    },
+    {
+      "path": "/k0n6",
+      "ip": "192.168.1.1",
+      "views": 5,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/k0n6.png",
+      "showCase": false
+    },
+    {
+      "path": "/4e0J",
+      "ip": "192.168.1.1",
+      "views": 5,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/4e0J.png",
+      "showCase": false
+    },
+    {
+      "path": "/vYQm",
+      "ip": "192.168.1.1",
+      "views": 4,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/vYQm.png",
+      "showCase": false
+    },
+    {
+      "path": "/whnu",
+      "ip": "192.168.1.1",
+      "views": 5,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/whnu.png",
+      "showCase": false
+    },
+    {
+      "path": "/uciN9",
+      "ip": "192.168.1.1",
+      "views": 32
+    },
+    {
+      "path": "/Ybwq",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/Ybwq.png",
+      "showCase": false
+    },
+    {
+      "path": "/Uz8f",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/Uz8f.png",
+      "showCase": false
+    },
+    {
+      "path": "/fwR60",
+      "ip": "192.168.1.1",
+      "views": 44
+    },
+    {
+      "path": "/N2rM",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/N2rM.png",
+      "showCase": false
+    },
+    {
+      "path": "/fwR60.txt",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/YFXtc",
+      "ip": "192.168.1.1",
+      "views": 4
+    },
+    {
+      "path": "/3Ouf4",
+      "ip": "192.168.1.1",
+      "views": 6
+    },
+    {
+      "path": "/luYFf",
+      "ip": "192.168.1.1",
+      "views": 3
+    },
+    {
+      "path": "/WnWZt",
+      "ip": "192.168.1.1",
+      "views": 10
+    },
+    {
+      "path": "/YwOf",
+      "ip": "192.168.1.1",
+      "views": 9,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/YwOf.png",
+      "showCase": false
+    },
+    {
+      "path": "/robots.txt",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/jWJq",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/jWJq.png",
+      "showCase": false
+    },
+    {
+      "path": "/kL0G",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/kL0G.png",
+      "showCase": false
+    },
+    {
+      "path": "/Ho38",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/Ho38.png",
+      "showCase": false
+    },
+    {
+      "path": "/jZBP",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/jZBP.png",
+      "showCase": false
+    },
+    {
+      "path": "/8Ye7",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/8Ye7.png",
+      "showCase": false
+    },
+    {
+      "path": "/YmRG",
+      "ip": "192.168.1.1",
+      "views": 5,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/YmRG.png",
+      "showCase": false
+    },
+    {
+      "path": "/Qtjsj",
+      "ip": "192.168.1.1",
+      "views": 5
+    },
+    {
+      "path": "/NnDD",
+      "ip": "192.168.1.1",
+      "views": 1
+    },
+    {
+      "path": "/tK28U",
+      "ip": "192.168.1.1",
+      "views": 0
+    },
+    {
+      "path": "/oBDM.log",
+      "ip": "192.168.1.1",
+      "views": 0,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/oBDM.log",
+      "showCase": false
+    },
+    {
+      "path": "/fPom",
+      "ip": "192.168.1.1",
+      "views": 5,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/fPom.png",
+      "showCase": false
+    },
+    {
+      "path": "/SMJp",
+      "ip": "192.168.1.1",
+      "views": 5,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/SMJp.png",
+      "showCase": false
+    },
+    {
+      "path": "/W7K9",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/W7K9.png",
+      "showCase": false
+    },
+    {
+      "path": "/cn17",
+      "ip": "192.168.1.1",
+      "views": 4,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/cn17.png",
+      "showCase": false
+    },
+    {
+      "path": "/7QZBU",
+      "ip": "192.168.1.1",
+      "views": 2
+    },
+    {
+      "path": "/NNk6t",
+      "ip": "192.168.1.1",
+      "views": 1
+    },
+    {
+      "path": "/PxUMS",
+      "ip": "192.168.1.1",
+      "views": 1
+    },
+    {
+      "path": "/hAv9D",
+      "ip": "192.168.1.1",
+      "views": 1
+    },
+    {
+      "path": "/9qoc",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/9qoc.png",
+      "showCase": false
+    },
+    {
+      "path": "/AeT",
+      "ip": "192.168.1.1",
+      "views": 0
+    },
+    {
+      "path": "/Rhf",
+      "ip": "192.168.1.1",
+      "views": 0
+    },
+    {
+      "path": "/HRZ",
+      "ip": "192.168.1.1",
+      "views": 0
+    },
+    {
+      "path": "/t0D",
+      "ip": "192.168.1.1",
+      "views": 0
+    },
+    {
+      "path": "/3HB",
+      "ip": "192.168.1.1",
+      "views": 0
+    },
+    {
+      "path": "/svb",
+      "ip": "192.168.1.1",
+      "views": 0
+    },
+    {
+      "path": "/DFn",
+      "ip": "192.168.1.1",
+      "views": 0
+    },
+    {
+      "path": "/short.",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/pLV",
+      "ip": "192.168.1.1",
+      "views": 0
+    },
+    {
+      "path": "/Odz",
+      "ip": "192.168.1.1",
+      "views": 1
+    },
+    {
+      "path": "/OZx",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/oZX",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/oZx",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/undefined",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/uVk",
+      "ip": "192.168.1.1",
+      "views": 0
+    },
+    {
+      "path": "/S1S",
+      "ip": "192.168.1.1",
+      "views": 0
+    },
+    {
+      "path": "/Bxj1",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/Bxj1.png",
+      "showCase": false
+    },
+    {
+      "path": "/QeHQ",
+      "ip": "192.168.1.1",
+      "views": 5,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/QeHQ.png",
+      "showCase": false
+    },
+    {
+      "path": "/Kmid",
+      "ip": "192.168.1.1",
+      "views": 1,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/Kmid.png",
+      "showCase": false
+    },
+    {
+      "path": "/YFS9",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/YFS9.png",
+      "showCase": false
+    },
+    {
+      "path": "/gpog",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/gpog.png",
+      "showCase": false
+    },
+    {
+      "path": "/jbJD",
+      "ip": "192.168.1.1",
+      "views": 5,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/jbJD.png",
+      "showCase": false
+    },
+    {
+      "path": "/byXO",
+      "ip": "192.168.1.1",
+      "views": 8,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/byXO.png",
+      "showCase": false
+    },
+    {
+      "path": "/wPV8",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/wPV8.png",
+      "showCase": false
+    },
+    {
+      "path": "/W76N",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/W76N.png",
+      "showCase": false
+    },
+    {
+      "path": "/r7LH",
+      "ip": "192.168.1.1",
+      "views": 4,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/r7LH.png",
+      "showCase": false
+    },
+    {
+      "path": "/sJks",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/sJks.png",
+      "showCase": false
+    },
+    {
+      "path": "/ERo4",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/ERo4.png",
+      "showCase": false
+    },
+    {
+      "path": "/nWzw",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/nWzw.png",
+      "showCase": false
+    },
+    {
+      "path": "/opdy",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/opdy.png",
+      "showCase": false
+    },
+    {
+      "path": "/EZ9f",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/EZ9f.png",
+      "showCase": false
+    },
+    {
+      "path": "/NAPR",
+      "ip": "192.168.1.1",
+      "views": 5,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/NAPR.png",
+      "showCase": false
+    },
+    {
+      "path": "/CQNU",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/CQNU.png",
+      "showCase": false
+    },
+    {
+      "path": "/z5TN",
+      "ip": "192.168.1.1",
+      "views": 5,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/z5TN.png",
+      "showCase": false
+    },
+    {
+      "path": "/5XB",
+      "ip": "192.168.1.101",
+      "views": 1
+    },
+    {
+      "path": "/paste.ejs",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/assets/header.html",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/assets/header.js",
+      "ip": "Unknown",
+      "views": 379
+    },
+    {
+      "path": "/privacy",
+      "ip": "Unknown",
+      "views": 29
+    },
+    {
+      "path": "/efbuywsbf",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/home",
+      "ip": "Unknown",
+      "views": 90
+    },
+    {
+      "path": "/shareserver/homepage.js",
+      "ip": "Unknown",
+      "views": 151
+    },
+    {
+      "path": "/t",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/instructions",
+      "ip": "Unknown",
+      "views": 5
+    },
+    {
+      "path": "/shortttt",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/z5TN.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/CQNU.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/NAPR.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/EZ9f.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/opdy.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/nWzw.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/ERo4.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/sJks.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/r7LH.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/W76N.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/wPV8.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/byXO.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/jbJD.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/gpog.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/YFS9.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/Kmid.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/QeHQ.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/Bxj1.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/9qoc.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/cn17.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/W7K9.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/SMJp.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/fPom.png",
+      "ip": "Unknown",
+      "views": 4
+    },
+    {
+      "path": "/YmRG.png",
+      "ip": "Unknown",
+      "views": 4
+    },
+    {
+      "path": "/8Ye7.png",
+      "ip": "Unknown",
+      "views": 4
+    },
+    {
+      "path": "/jZBP.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/Ho38.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/kL0G.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/jWJq.png",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/YwOf.png",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/N2rM.png",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/Uz8f.png",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/Ybwq.png",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/whnu.png",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/vYQm.png",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/4e0J.png",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/k0n6.png",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/66me.png",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/T8qA.png",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/JvrG.png",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/W7I8.png",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/jx2L.png",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/PLHa.png",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/tmax.png",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/w4Vd.png",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/atrK.png",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/o8oJ",
+      "ip": "192.168.1.1",
+      "views": 0,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../passwordUploads/o8oJ.csv",
+      "showCase": false
+    },
+    {
+      "path": "/Ywx",
+      "ip": "192.168.1.101",
+      "views": 1
+    },
+    {
+      "path": "/CPQ",
+      "ip": "192.168.1.101",
+      "views": 1
+    },
+    {
+      "path": "/yV0R.mov",
+      "ip": "192.168.1.101",
+      "views": 0,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/yV0R.mov",
+      "showCase": false
+    },
+    {
+      "path": "/CZC4.heic",
+      "ip": "192.168.1.101",
+      "views": 0,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/CZC4.heic",
+      "showCase": false
+    },
+    {
+      "path": "/WYmy",
+      "ip": "192.168.1.101",
+      "views": 2,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/WYmy.jpeg",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/2B-oTc1mDMSU39BlgBIo3Ou23jbM8O-kylWzdUuyP-E",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/5o4",
+      "ip": "192.168.1.101",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/rOgr1DvgIEEZoVaL7dhIKmqrDtpQnxrf47Rb91UbVH8",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/RvJ0uec6vxf3dZ75Aw1XQjJJ8OL6vthukb19R9hGtyo",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/4CEK0",
+      "ip": "192.168.1.1",
+      "views": 2
+    },
+    {
+      "path": "/ibv",
+      "ip": "192.168.1.1",
+      "views": 0
+    },
+    {
+      "path": "/Iwq",
+      "ip": "192.168.1.1",
+      "views": 0
+    },
+    {
+      "path": "/.well-known/acme-challenge/aQPTxhgOLDmOpDe8VnA6eK46i0uuUgpLqvpMnfpDrRE",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/InLIzMIVeJikO3M4fUTBDMFDtKtLAG811tkl9vk-4yo",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/6rIj",
+      "ip": "192.168.1.1",
+      "views": 18,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/6rIj.png",
+      "showCase": false
+    },
+    {
+      "path": "/OEd",
+      "ip": "192.168.1.1",
+      "views": 1
+    },
+    {
+      "path": "/o2W1",
+      "ip": "192.168.1.1",
+      "views": 5,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/o2W1.png",
+      "showCase": false
+    },
+    {
+      "path": "/s30s",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/s30s.png",
+      "showCase": false
+    },
+    {
+      "path": "/90LR",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/90LR.png",
+      "showCase": false
+    },
+    {
+      "path": "/iuxr",
+      "ip": "192.168.1.1",
+      "views": 8,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/iuxr.png",
+      "showCase": false
+    },
+    {
+      "path": "/Qtk4",
+      "ip": "192.168.1.1",
+      "views": 29,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/Qtk4.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/vHfhnNkW9eMfy8rbY4RZoI-p6l_wG076ar6uh3zbkXg",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/bVRG",
+      "ip": "192.168.1.1",
+      "views": 17,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/bVRG.png",
+      "showCase": false
+    },
+    {
+      "path": "/IcML",
+      "ip": "192.168.1.1",
+      "views": 14,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/IcML.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/CRalEBO8bmVlF0_vOcYRVbmUSeIJMQhEaRwxuNcmkU4",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/R_qGCu5O3idG3nGa7AChHzx6tNHylO_Yfj-5UlLbDrY",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/j-CTq2gQz2sJ3KXxGKrvHwBYUWcCqh_5wEDhRCK0pj8",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/1sGrQ",
+      "ip": "192.168.1.1",
+      "views": 7
+    },
+    {
+      "path": "/Nam6.log",
+      "ip": "192.168.1.1",
+      "views": 0,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/Nam6.log",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/7TGFJ5uSBAViRRwJh7YVY4s4Vyji8pRkhZy7MVexi7M",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/xo0J1ncy-wPp0CGaRcIdQoug9ULvEZ35FzHHd4hI1Hk",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/UI79",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/UI79.png",
+      "showCase": false
+    },
+    {
+      "path": "/PqG6",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/PqG6.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/udQk0WdLLKzF6tYztU3ZyVmwhot407nha89MnZpUXj8",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/j8tbOqBA_ZrmxssZTsN_y2McCr0-lxgp85QXEwm6GZo",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/zr_mnNFJvpCsvBQfVjvuWLXP5hL6Yq0sbuFSC5PKP4g",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/TYR",
+      "ip": "192.168.1.101",
+      "views": 20
+    },
+    {
+      "path": "/.well-known/acme-challenge/b-FbssqWi_PizZgbPrJFfW3O1KasWggtu_D_A9JLWTc",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/6_RLKJwxC20dgXHAnGNaYwykQntbdDB0nnBOrb3BST4",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/HCM",
+      "ip": "192.168.1.101",
+      "views": 1
+    },
+    {
+      "path": "/3ST",
+      "ip": "192.168.1.101",
+      "views": 1
+    },
+    {
+      "path": "/0Eu",
+      "ip": "192.168.1.101",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/0y4bn68hKsx-AFWZ24LnrsS9lhuH_-W_loQ4sUbbUFo",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/ZuJ0IdW97TmeNZLCLk4ckj6Ew78DtpO0SLaYfB6-l-c",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/97hl",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/97hl.png",
+      "showCase": false
+    },
+    {
+      "path": "/hr13",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/hr13.png",
+      "showCase": false
+    },
+    {
+      "path": "/Uthr",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/Uthr.png",
+      "showCase": false
+    },
+    {
+      "path": "/aKWp",
+      "ip": "192.168.1.1",
+      "views": 11,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/aKWp.png",
+      "showCase": false
+    },
+    {
+      "path": "/Lypd",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/Lypd.png",
+      "showCase": false
+    },
+    {
+      "path": "/h2FF",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/h2FF.png",
+      "showCase": false
+    },
+    {
+      "path": "/NsMd",
+      "ip": "192.168.1.1",
+      "views": 8,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/NsMd.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/zvMDkKCdT-u0pSBjYmtUyyIgT7Pm6OzNqzWF5Mj04Vs",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/Utoq",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/Utoq.png",
+      "showCase": false
+    },
+    {
+      "path": "/DwAW",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/DwAW.png",
+      "showCase": false
+    },
+    {
+      "path": "/MzzI",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/MzzI.png",
+      "showCase": false
+    },
+    {
+      "path": "/E5kb",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/E5kb.png",
+      "showCase": false
+    },
+    {
+      "path": "/S5QM",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/S5QM.png",
+      "showCase": false
+    },
+    {
+      "path": "/FgY7",
+      "ip": "192.168.1.1",
+      "views": 8,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/FgY7.png",
+      "showCase": false
+    },
+    {
+      "path": "/dEVm",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/dEVm.png",
+      "showCase": false
+    },
+    {
+      "path": "/DuO0",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/DuO0.png",
+      "showCase": false
+    },
+    {
+      "path": "/LvUf",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/LvUf.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/N_ecUMbyCVsg86H_DZvRyPQ3vP1CnmWrWxVx-UffcQA",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/t5WA",
+      "ip": "192.168.1.1",
+      "views": 11,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/t5WA.png",
+      "showCase": false
+    },
+    {
+      "path": "/KBIl",
+      "ip": "192.168.1.1",
+      "views": 9,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/KBIl.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/bqarhPhFwsN6wPlATftpeJPdlWDA7tow4VTXBJkaSj4",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/3AUMNFr9jNgVMSg9PiOVuYtHfus_wdp_tABHaG3mJWY",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/pha",
+      "ip": "192.168.1.101",
+      "views": 3
+    },
+    {
+      "path": "/phr",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/wN1",
+      "ip": "192.168.1.1",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/AnRLrhSdE55hLrRWZlnmW5z1XBqJ3dpmz0e-o-UgARo",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/ajIO",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/ajIO.png",
+      "showCase": false
+    },
+    {
+      "path": "/a2IA",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/a2IA.png",
+      "showCase": false
+    },
+    {
+      "path": "/tRGe",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/tRGe.png",
+      "showCase": false
+    },
+    {
+      "path": "/IYW1",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/IYW1.png",
+      "showCase": false
+    },
+    {
+      "path": "/4pfQ",
+      "ip": "192.168.1.1",
+      "views": 8,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/4pfQ.png",
+      "showCase": false
+    },
+    {
+      "path": "/HMs",
+      "ip": "192.168.1.101",
+      "views": 2
+    },
+    {
+      "path": "/L5tr",
+      "ip": "192.168.1.1",
+      "views": 4,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/L5tr.png",
+      "showCase": false
+    },
+    {
+      "path": "/KOrB",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/KOrB.png",
+      "showCase": false
+    },
+    {
+      "path": "/mgCl",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/mgCl.png",
+      "showCase": false
+    },
+    {
+      "path": "/0wYs",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/0wYs.png",
+      "showCase": false
+    },
+    {
+      "path": "/2Ww3",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/2Ww3.png",
+      "showCase": false
+    },
+    {
+      "path": "/78e8",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/78e8.png",
+      "showCase": false
+    },
+    {
+      "path": "/1QGU",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/1QGU.png",
+      "showCase": false
+    },
+    {
+      "path": "/TNwr",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/TNwr.png",
+      "showCase": false
+    },
+    {
+      "path": "/WjrI",
+      "ip": "192.168.1.1",
+      "views": 29,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/WjrI.png",
+      "showCase": false
+    },
+    {
+      "path": "/0HpR",
+      "ip": "192.168.1.1",
+      "views": 5,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/0HpR.png",
+      "showCase": false
+    },
+    {
+      "path": "/9mIO",
+      "ip": "192.168.1.1",
+      "views": 5,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/9mIO.png",
+      "showCase": false
+    },
+    {
+      "path": "/O356",
+      "ip": "192.168.1.1",
+      "views": 8,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/O356.png",
+      "showCase": false
+    },
+    {
+      "path": "/23PUq",
+      "ip": "192.168.1.1",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/NVHWGlZsl8OGtRIpBk_7-MQhhvY7hWTjbJOIgGCtO-k",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/ix4lQ",
+      "ip": "192.168.1.1",
+      "views": 2
+    },
+    {
+      "path": "/05sxP",
+      "ip": "192.168.1.1",
+      "views": 2
+    },
+    {
+      "path": "/vz3p",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/vz3p.png",
+      "showCase": false
+    },
+    {
+      "path": "/o5RL",
+      "ip": "192.168.1.1",
+      "views": 69,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/o5RL.png",
+      "showCase": false
+    },
+    {
+      "path": "/PGcd",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/PGcd.png",
+      "showCase": false
+    },
+    {
+      "path": "/17EG",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/17EG.png",
+      "showCase": false
+    },
+    {
+      "path": "/SjWc",
+      "ip": "192.168.1.1",
+      "views": 8,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/SjWc.png",
+      "showCase": false
+    },
+    {
+      "path": "/JzwZ",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/JzwZ.png",
+      "showCase": false
+    },
+    {
+      "path": "/zrdKG",
+      "ip": "192.168.1.1",
+      "views": 3
+    },
+    {
+      "path": "/7M5r",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/7M5r.png",
+      "showCase": false
+    },
+    {
+      "path": "/opEC",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/opEC.png",
+      "showCase": false
+    },
+    {
+      "path": "/Pqpx",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/Pqpx.png",
+      "showCase": false
+    },
+    {
+      "path": "/QoLQ",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/QoLQ.png",
+      "showCase": false
+    },
+    {
+      "path": "/XkFS",
+      "ip": "192.168.1.1",
+      "views": 22,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/XkFS.png",
+      "showCase": false
+    },
+    {
+      "path": "/Vxrm",
+      "ip": "192.168.1.1",
+      "views": 20,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/Vxrm.png",
+      "showCase": false
+    },
+    {
+      "path": "/zdC2",
+      "ip": "192.168.1.1",
+      "views": 24,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/zdC2.png",
+      "showCase": false
+    },
+    {
+      "path": "/uHDl",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/uHDl.png",
+      "showCase": false
+    },
+    {
+      "path": "/is76",
+      "ip": "192.168.1.1",
+      "views": 9,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/is76.png",
+      "showCase": false
+    },
+    {
+      "path": "/N7Ri",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/N7Ri.png",
+      "showCase": false
+    },
+    {
+      "path": "/49iW",
+      "ip": "192.168.1.1",
+      "views": 5,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/49iW.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/85U5znNX3iMsIC9L7xQDgZJCOCzXUu_c17RbIjPlztA",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/ZOY05nSbSk5E9RdVmlVM0waSMpPURu2rn0cwG0UIssk",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/vJQ-LdG6m_bo9ipvnKON4ahIsOWwKZR1CEQKM1jdtRE",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/wrfrB0jNrKaE41_1TDL4slmCbW6628kj5tJY-kcNEFM",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/8imxiT6yuw3JiO8Z7lp8D9C4rm5Q_NqyKI8twBtwhQk",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/8__vTI8IBknAniDmQev5CrbsGw7O-CH0pPXiisLgDIA",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/snyRfToa1GBvVA9Zgf9N35I7ZKU5h7EliC_4acntWaY",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/UfF0-0vQyLJNJC4L4fVJgJj-pFMQcGeRXd5XEMuvRJk",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/t_Jp67P3tJqa-TjlCZIgLE3gtrJkJ1O0A4VZjPhE6rc",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/pV6lri3MCu46QGNcAPi0WMzZdoYLCrVAhB_-drjRLKM",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/re_iIfOkVYH6ejW6NNYqvByhGFir_hAfJkYkJu_NIQI",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/d968",
+      "ip": "192.168.1.101",
+      "views": 4,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/d968.png",
+      "showCase": false
+    },
+    {
+      "path": "/d968.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/-b3hAXJuIPIclxwH3aOi74PaOOHyTkLvfAOzEOlkNUM",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/k3x",
+      "ip": "192.168.1.101",
+      "views": 5
+    },
+    {
+      "path": "/.well-known/acme-challenge/Quwbe9qKdlHDSYPTAqtX600luaxBMAumdQaao7BF-k0",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/sEECMTm-AVom-95WTGbaT2lPfwPK_XnHHnOaPp4aWNc",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/NHr3a3FX3xa7aeV-xsZ_t5PP91B4yEWiDVmU-OrF7Ms",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/gUXmmRCBIAGF72y5B660x21P3LI58hNJ_lLz-UEE1ds",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/lKQSzLDTp3OSn66u30RzB8Jho3Nj-_nb-IaJvEe60N0",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/eUu2UOhdyrWiv0fm6i55_MySyFCON5tWUHo1c6Vf6Iw",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/i6hBTRntbaaA4UJNFvGeE0_xvMkmGFMI0yoy8EPZTfI",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/ToYh",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/ToYh.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/G0h2FFUmUcfvCDryBtCQKyYzw4hqKtjvRTIV4OtItjY",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/r6lgMyNEF75p9WCLCiNQkZx8xya9dedCa991xR0wzs4",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/u9QzbtodHvM_U3HNOMrQeaUhPLeaTP3YSp5NY8oDDvc",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/rN_DHCoNXwCTuX9TaKKz1JVUyadl0VIP9AK5bIFf-ms",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/Vgh8",
+      "ip": "192.168.1.1",
+      "views": 14,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/Vgh8.png",
+      "showCase": false
+    },
+    {
+      "path": "/3wwT",
+      "ip": "192.168.1.1",
+      "views": 10,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/3wwT.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/Z2qSZ21qc5GF9r-Z0GaeMsMfwSH4YFpXmqAhLjDqIZ0",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/g-Zdai7-OfvVKP3AShtxxGo0BpAbQkbLZ3GsD2YUovY",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/42b1fO5Lyck9Zwe0qF5CIG3oQqxT7B0b1grwbIyTQeE",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/eIVunmKjA-PxvRylPkXfYVrk__1M4WBddcblJfcOBw0",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/pS2d",
+      "ip": "192.168.1.1",
+      "views": 10,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/pS2d.png",
+      "showCase": false
+    },
+    {
+      "path": "/AES7",
+      "ip": "192.168.1.1",
+      "views": 13,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/AES7.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/szdJY29m0Lm7EKAd4Qx-qUomG9j5XDteKCPDYYyBCr8",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/Ss-A9axbeRuD77aW8BxKfb-5kwQgL9WXFtSJIf_hl-M",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/nC9U1J0tX1CtKakP3CfcmNAjrQOH3KYJHQpo6irTlvo",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/guF25FRh9DOf5MovQK9kb6tfAbup4_bY4DjYgopGh8o",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/F4CK",
+      "ip": "192.168.1.1",
+      "views": 8,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/F4CK.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/B72D9ZWRG8dRzW28KkQx8uJ8vx8C3jthXgjTt-61kxY",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/p66n",
+      "ip": "192.168.1.1",
+      "views": 92,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/p66n.png",
+      "showCase": false
+    },
+    {
+      "path": "/88tb",
+      "ip": "192.168.1.1",
+      "views": 71,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/88tb.png",
+      "showCase": false
+    },
+    {
+      "path": "/tG4t",
+      "ip": "192.168.1.1",
+      "views": 90,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/tG4t.png",
+      "showCase": false
+    },
+    {
+      "path": "/fu3b",
+      "ip": "192.168.1.1",
+      "views": 92,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/fu3b.png",
+      "showCase": false
+    },
+    {
+      "path": "/uiWy",
+      "ip": "192.168.1.1",
+      "views": 8,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/uiWy.png",
+      "showCase": false
+    },
+    {
+      "path": "/uPHM",
+      "ip": "192.168.1.1",
+      "views": 9,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/uPHM.png",
+      "showCase": false
+    },
+    {
+      "path": "/vlza",
+      "ip": "192.168.1.1",
+      "views": 8,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/vlza.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/QbgZhgOtu8cSxaZxunnQFgLPHBWAJerEX-Qh7rqjDac",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/HdhQ",
+      "ip": "192.168.1.1",
+      "views": 9,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/HdhQ.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/G_gvO82qc0RJTqOPiNTCcbwvqLGgU_fU4XnzkwN8E80",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/QWMO",
+      "ip": "192.168.1.1",
+      "views": 5,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/QWMO.png",
+      "showCase": false
+    },
+    {
+      "path": "/Z7Qc",
+      "ip": "192.168.1.1",
+      "views": 4,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/Z7Qc.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/8TWbpaKlPmkUl_1x79qvkd3-LlFMC9-BmXNk9x-wbwQ",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/6O54",
+      "ip": "192.168.1.1",
+      "views": 9,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/6O54.png",
+      "showCase": false
+    },
+    {
+      "path": "/T2mE",
+      "ip": "192.168.1.1",
+      "views": 9,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/T2mE.png",
+      "showCase": false
+    },
+    {
+      "path": "/wMC0",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/wMC0.png",
+      "showCase": false
+    },
+    {
+      "path": "/pfvE",
+      "ip": "192.168.1.1",
+      "views": 8,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/pfvE.png",
+      "showCase": false
+    },
+    {
+      "path": "/gr14",
+      "ip": "192.168.1.1",
+      "views": 10,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/gr14.png",
+      "showCase": false
+    },
+    {
+      "path": "/3nCT",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/3nCT.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/Eass7vXCLt4QCPL1Zdhst1TEVwQXori5kMwOFw_so5E",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/oclo",
+      "ip": "192.168.1.1",
+      "views": 11,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/oclo.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/zLFZi8A8nZAfWlRY-eZq_CYavbMfqoxgUHk9mddjtYo",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/hGJSW9n9KkxqQpzerCp7m00KXAT_oPyD3qJlwyjCzRY",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/CRsOIF_iQYRnZ0C8JqJhma8L9NlcAyuEUTxhWqs3V8I",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/AzZT",
+      "ip": "192.168.1.1",
+      "views": 10,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/AzZT.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/uOUEDSfA_xBId_x4IBU4ujjYeGTxvkXea7rLTzzfOQE",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/8GTpJznxslHfLZdX0G2TyYbBZieNgAdOwmEtBHLrN2A",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/QME3blmpTop7Cbtiy1uhc1-b9r4KrjN7z2vPwi5XvBA",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/uI0dhaHstZl50tMUNAY-POWriogvYNvH0vNrqEV8hNI",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/XqGDkJ3nc65_HL0CZv58DJ7MGh6ymUzoPFvCIY0TR8M",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/2d20",
+      "ip": "192.168.1.1",
+      "views": 23,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/2d20.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/xw_-bkRphpw_1cF-WeNS3QclMjohi7Syy6IyuF2absg",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/He3Uw5zHsOTldK7U9VCKREv0R-GP8uHrp11XZuFyUes",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/ztK6vXJ6Y8beyvtQXb4n0Vz6tLcdk0_e7IZWkq8s0_0",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/FSa71ciu7Wpil7aeqf6tBHe7gnup2ndD3O4dZGQriAw",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/86W-hY1nkofTzHFHW0IUmW9bRraMo4-8sbbDikylRb0",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/OM5XOpKXsrtSSN_K444NZ0EEpUEvjbQJbNiqQ2uL8fU",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/LRJLAbH2KQQ5AXG7TZniuilS5f7t5jBB98c7NpETSOY",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/NB9yCsR-ajmDSBK0f8n5gDtuJKmxTkaWBDFIRNQUAJA",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/2eSrF9XWtLXZeYCgb78RQkNhswlgc9Ow1Dq2BDHci_E",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/ZaaCdBJBKrIbAhrCuNTcdc6yD7As_Qvv_kyZWJDLovw",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/IEtg4kTex2SB8g5qDheKxqejrQ1ecoNM7-sS7kgO328",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/vyQLVcFa6gXWIa78masU81mTBEC9mmewXsdaO3vgKAM",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/RvcGnPQERvzoO0_Y8nKjFh7etD5B24UfsFI6jN4G8qs",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/Sn5M",
+      "ip": "192.168.1.1",
+      "views": 10,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/Sn5M.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/B5zdLKPTyKXMkJK3s7HAs3tiKmXQdYpUhfFt1RO9R-s",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/u--ggpFKCl_ef2xpazffqOVOEV6mfXqzc2Qq7cCo2mA",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/EVyBHaPI_Ip-j1ODoIbozJeMaQGTWNxYgQ19cNQPfp4",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/aTkcNBUwpMqKsdcW3gIK0CD53Wtdfm-f_-UVCNoVgcA",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/RmcWlHduB_gL1I1EHgVHWmdLckYGSJJ9Jehprmh8Mio",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/32ZgB4imsClopKmK-zxHO2T011Eio_AWa2-LLpDXic4",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/FFkmnQw-lu7IOzN9YfnXykqIcA4j7bd3c3C5PHjmCmw",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/jiscAEtPSGrZgMLGz5UoPcm77jMLupwa6aJ6li_Nkvk",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/ILw8dUy68cpQH_YgaK19oa2Hxbs6QYGkdN7mCEOS4G4",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/GYuj",
+      "ip": "192.168.1.101",
+      "views": 5,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/GYuj.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/pGvytWh7i_1T9f6GoXawnQNIdr5Z1ErDFR70t50E8uU",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/CeHsufPFhnLlgcBrJwovkaGWDzhdcFp_zFbqbaQMNUs",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/b2CGuQ49j66RsFBtaHUTDBJwtsBhS2z-pJwqN4ivRbw",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/bxXE2KjOdPMF4LHywdDcqQ1eYE2bcug8srAisTj58Nk",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/eSuK3lLAvOP9AfmHjCyub5g2iXIij7yiuEMOo6GwPbY",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/CrlK",
+      "ip": "192.168.1.1",
+      "views": 9,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/CrlK.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/StXWV1L3_HYN4LM41swtG2f6rDQB13H4-AZ0JemPb2s",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/OAIw00ghhb8rQkiLw2bN-T5gfmjDLaNxIZJADiqHqdU",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/o0yKJPxFX7GoUH6HK1rY-g--oe4mNigo4mbt1X_j6Zo",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/s5LP",
+      "ip": "192.168.1.1",
+      "views": 8,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/s5LP.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/iG1kNPcZsK1madXwwkxJ31ajDIp1DTCmd-_7cxaKoxc",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/aYg_HIzMG__t2-F0vyTArqWEExwonVYHgBsNM7UWcgA",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/1GgXvkhe4OS8ngGJmCvWLbn-pbeWXffSJWqVLd9G47g",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/Jo2UO1An3wI8Zn2AQLL189htq49FKi0Z2Itvq0aRoIc",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/BLkm5LFjiJ3yxrrLjkYDYi5H3Rj2cm7g9uUPGk_ii7s",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/p0ZjJw7t1Nh_AvWfyrwBFXMNaR8beTUScjleRNAWnN4",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/tjwKC0J10QsOVXpDflIeIPa-gWSmNj45PBiu6yzkR-E",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/.well-known/acme-challenge/ed2sRRbpISGJpvMrC67NDfUI5HIDzuHAC0Ldq_Y2D8k",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/ssy8fKFw49SOSHn_7P1dQsOYS2AF2Z4aQJA58-CbhgQ",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/e_QC7vNTXQmPKHTGdcg4b5cDoYST3KtMrhQAiHQEFPU",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/api/files",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/WnxH",
+      "ip": "192.168.1.1",
+      "views": 921,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/WnxH.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/bXgbWkmnvOx5DlXzAc5GkEVHaD0FP0N7dTVK5OdWI_8",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/He676yatHySslIfcj9TdkYmqsiqYetixbLsh6pmH3w8",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/dFPzetkjQ3tkYDDbunwCmYwxTN7M-N6ZxHyb4pvS8UE",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/Pd7VJi6SQ0mSEmY07KLLWrrLHWkRU5bH3PGALLOFHmE",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/csX0bTZ-v5aKpTEA0xZinPuqtXgMsNKr6uwWaJ_fWZ8",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/RhVTlmi7ftwe41vK-RUol4_MddW_Y3YDV4H7iNaoxKY",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/lRRQXg7nsm_4oWHeG7KuV9LY6Trnd_UwTD0_oxAbh-g",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/.well-known/acme-challenge/h8h0uqBaIe3p04uaEsSz3USUqc8WmML2ITEXxln4vmo",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/acHnNeF01DfIYBdo20YV7dVszVUPVR_pGhcRhDmN4Ok",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/Miko8vpm1U8zp7TMTWztslv6iGISYFlPD5lqznhIWI8",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/IsN-EO3IX0l5feuF7-TS8thReyAahNNC8OaP311H4lo",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/BTtW",
+      "ip": "192.168.1.1",
+      "views": 39,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/BTtW.png",
+      "showCase": false
+    },
+    {
+      "path": "/RDE",
+      "ip": "192.168.1.1",
+      "views": 7
+    },
+    {
+      "path": "/.well-known/acme-challenge/J95sXbGhlNfnJNIZx6UEdtcwWBuh7LRZfeuDzcxX-dc",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/bzTF",
+      "ip": "192.168.1.1",
+      "views": 5,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/bzTF.png",
+      "showCase": false
+    },
+    {
+      "path": "/yLUz",
+      "ip": "192.168.1.1",
+      "views": 5,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/yLUz.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/11ghRZldTQg4LGXslVNhi1QMD8YoklnQ4BW7ixmdQQg",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/NoWO6anOtg-e1O9gP0AMSBIUaeaAk4VkE9lvtw3bBT8",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/6pfu4Edz-4PimERgWVHxQBMSwgEvvrtDQcGY9-iKjDQ",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/GxoIudSlqn30JQPjjU0dsKzrLf8SY-OR60Y_60xWpqw",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/TYkSLYQsPZegjCuwHNceijQW6urEqQdZPxZXQ2u-iWo",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/7ARTUziKpYUh7Q74eExC7QZfmUkIbYDbA9iI9gglFhI",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/G8d8",
+      "ip": "192.168.1.1",
+      "views": 4,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/G8d8.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/fuiBP8EDoYeA8TpijFL8Ffnvb81-HAIIjgv9dRTh3PE",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/f8qKybCmqmgAwxoW8aFEePBK3erPKbWUsL2Y_-cMtFo",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/7OjIaXYISWQY6PAv14MhbP2pBeshQPdqo_sX3Co4FSA",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/KKvfaexQxNvbzD0FwsXyYTFrdYP84jr0a9V6Pt0yA64",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/D8lArOWaG5MtnMlTmn5ACuW8C7kaf-d8TeuIlHNA9AI",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/Zw11",
+      "ip": "192.168.1.1",
+      "views": 8,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/Zw11.png",
+      "showCase": false
+    },
+    {
+      "path": "/p8VB",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/p8VB.png",
+      "showCase": false
+    },
+    {
+      "path": "/XGjU",
+      "ip": "192.168.1.1",
+      "views": 4,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/XGjU.png",
+      "showCase": false
+    },
+    {
+      "path": "/wzzj",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/wzzj.png",
+      "showCase": false
+    },
+    {
+      "path": "/1AfkT",
+      "ip": "192.168.1.1",
+      "views": 2
+    },
+    {
+      "path": "/Pjla",
+      "ip": "192.168.1.1",
+      "views": 10,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/Pjla.png",
+      "showCase": false
+    },
+    {
+      "path": "/cO7sz",
+      "ip": "192.168.1.1",
+      "views": 3
+    },
+    {
+      "path": "/voA6",
+      "ip": "192.168.1.1",
+      "views": 13,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/voA6.png",
+      "showCase": false
+    },
+    {
+      "path": "/ewhc",
+      "ip": "192.168.1.1",
+      "views": 12,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/ewhc.png",
+      "showCase": false
+    },
+    {
+      "path": "/MFNY",
+      "ip": "192.168.1.1",
+      "views": 9,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/MFNY.png",
+      "showCase": false
+    },
+    {
+      "path": "/iBgI",
+      "ip": "192.168.1.1",
+      "views": 10,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/iBgI.png",
+      "showCase": false
+    },
+    {
+      "path": "/Crns",
+      "ip": "192.168.1.1",
+      "views": 8,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/Crns.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/X1ktk3Fa-5enwFCAezjoINzEzZpz-YseTAA5p0xoGGM",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/OUckOXGimzngztBUK8Nm8BS3OIxioi0aHWXuG3M0R18",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/okP3r-SsVckKMeEEyv7m7kDLQMI14cud-Jlz_lxIqBw",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/gRjozXXxKCuSZSbvvRDqeDoOlxUK_pvUOoiS5I4u2Ac",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/EM7yvQavCsNqSYcZrYn5fzZNkXSwvXnjmIAyf6dKJ-0",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/hSSBo_QfUWw6xRPXo2gvLlWe_VeaXhQVIISVVOg_rZQ",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/4Ynd",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/4Ynd.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/56Mq3QoWBiG1hrx1qz7uw7JtO6OTLJsrIiX-uyXa_AY",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/I5ePlnF-DVcpNNJ8wuFYZQu4T69A4piCJIlUJ5ajr-I",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/YCjXKFDyiGPki0VUeLedgy5o01Mn4npPGpDsBUYEZ1A",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/aNxPSvxARJNkAaO6DShoWJfuCRsgAV0Lo1lkup6kaRM",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/twSvnO1j9zSNFwcbOKhetzwdcemhqOFrJvuXiisIe_Q",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/i70wDsVXdiM8IRLgcidP8nHKgxFOgYMqhFBscrv1XPA",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/DruA1vY8knp3moUSsDDtFGI8hHHA2Q9YvK8mzvEJGLI",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/MgM2n8Hb_FIujYyLtwiCAClaMe9mL8dJLnGUMh-t6U4",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/1M8ixYjqSU0O70rkAhsd7MgEVdaUmNNC1_1mYjC1ZLg",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/i3V5TMH3vizu5Bh1VVopJhNvuEkNqIEFkQ9U68p_Ibo",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/T-wuVHquz7RQiFv84Z6NbakEQxiXlr0rX7j8GUDZMXc",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/T0Q7yS8c0gT510dOae4qNCswg6qh25a_plaj8lc1UGg",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/CTzRNznuFKRLnE6cbS61GQTkptnB5yzhsdWbtMYDtBg",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/-6uEz_h2bnYbPx5QuIBaH8fPYDOY4DkP-9qguqCKHzA",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/cm9z",
+      "ip": "192.168.1.1",
+      "views": 13,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/cm9z.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/k3-R3Kl97OXKS4Z3xaicnnG77E2Dc8thVqIxkTEQus8",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/X83f7_csjrFjt4jmA4mJNkrc1bJX0AlK9HSTfltY9GE",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/xtOH2O4goJPNZiClzZNzGD-HulbW8j31-gCgPdYiAK4",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/Ck2K",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/Ck2K.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/6amgB2RMP7ht490rCROA16_wWT1Ds9YExKwl6vnYpmM",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/fvToC612zapnX6LwpH1bRdCmPz0acOGmeocoD6QgoDk",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/VYZT",
+      "ip": "192.168.1.1",
+      "views": 9,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/VYZT.png",
+      "showCase": false
+    },
+    {
+      "path": "/rtmS",
+      "ip": "192.168.1.1",
+      "views": 11,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/rtmS.png",
+      "showCase": false
+    },
+    {
+      "path": "/24M3",
+      "ip": "192.168.1.1",
+      "views": 8,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/24M3.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/MAhzx2EjlWzlx-6sSpDSDcxQioZQjxybQxZ9TGdB07I",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/lv7BNzf_03zBfcQt9leqwosKwnPnL3kNGmXQv1UOSkQ",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/vRbapnzJxM1J0b4gQgqTb0DOIOMtlhgidUJXhomKEL4",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/rWW1",
+      "ip": "192.168.1.1",
+      "views": 9,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/rWW1.png",
+      "showCase": false
+    },
+    {
+      "path": "/snMf",
+      "ip": "192.168.1.1",
+      "views": 9,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/snMf.png",
+      "showCase": false
+    },
+    {
+      "path": "/5WTk",
+      "ip": "192.168.1.1",
+      "views": 722,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/5WTk.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/R9wBil633tBZ7yr8oKQvsabSi77R59H1ZsXQmaf7LJE",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/rb7c148DnUhdN2psOTtYgd6dLaPumniIZ0ye-mDEwdg",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/XvM2",
+      "ip": "192.168.1.1",
+      "views": 8,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/XvM2.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/xPJya3Fv3KzWL2ub_6B52aTNX_jCveOQXxWmPykWe-Y",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/l1Fu36osswDPAvbMl-Cythwl5CuYUrmhzWEqAuN5X5c",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/QAoFE-k4l2TCuvVmy-wJL8pC-p1WrP-ddNGalCg-GH0",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/i4TkHTAORZz3ZiVtXi4eZWElIneIOFdWdEAjzOXEOgE",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/Oq3w1ldpGjclEK_sv_NFsJfb_B_ok52n4fuVneodUCQ",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/o1vU",
+      "ip": "192.168.1.1",
+      "views": 9,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/o1vU.png",
+      "showCase": false
+    },
+    {
+      "path": "/mZbQ",
+      "ip": "192.168.1.1",
+      "views": 8,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/mZbQ.png",
+      "showCase": false
+    },
+    {
+      "path": "/cuZh",
+      "ip": "192.168.1.1",
+      "views": 9,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/cuZh.png",
+      "showCase": false
+    },
+    {
+      "path": "/Iuy4",
+      "ip": "192.168.1.1",
+      "views": 9,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/Iuy4.png",
+      "showCase": false
+    },
+    {
+      "path": "/X6Go",
+      "ip": "192.168.1.1",
+      "views": 7,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/X6Go.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/zUz8BCejwTbsvHc-58tDPDTQ-hzp5g6fBFF3NZOHX2Y",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/QAeH",
+      "ip": "192.168.1.1",
+      "views": 9,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/QAeH.png",
+      "showCase": false
+    },
+    {
+      "path": "/gzYy",
+      "ip": "192.168.1.1",
+      "views": 6,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/gzYy.png",
+      "showCase": false
+    },
+    {
+      "path": "/JZvR",
+      "ip": "192.168.1.1",
+      "views": 8,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/JZvR.png",
+      "showCase": false
+    },
+    {
+      "path": "/7Chj",
+      "ip": "192.168.1.1",
+      "views": 19,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/7Chj.png",
+      "showCase": false
+    },
+    {
+      "path": "/Dxml",
+      "ip": "192.168.1.1",
+      "views": 1,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/Dxml.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/opb5qeRVE4Y9qHOux0sdy2jSIpDYR84rzmb4uHq-Jic",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/ADjF",
+      "ip": "192.168.1.1",
+      "views": 12,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/ADjF.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/0qAHzWXksjPebeoYOTEFr3bgzv-C7iCeQit3v6H1ljI",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/mIS",
+      "ip": "192.168.1.101",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/Qz2yXlsYJaZizNQvXBZMBvf68W5Sm20Rk4s4iXuxFwo",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/B80XuBLWRzXSU79uD2J5VLI0sD50sLTX-XA0uEKb7tQ",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/9002_1iefUdgZpGE-HIOCJlKcTioXWsycKRO6wOcIE4",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/woTJ2L4rY7UhbwxEJcq30-pbQUh5FGYZOwddzB_KzgI",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/LhFn9B1XN2mOPYDWOpWdHIgRoFfuVbltQH7nAXWPPr4",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/.well-known/acme-challenge/3BvMQsCUZ9FHvR_CaUzKpYswe2Elir8MV9U-L2xZ9h8",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/B6X29d5fBUQc5ULyjpG_M0xdAtBlrkTzGLhax82r4vc",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/GgJnDBbQS3DZEHcBWIcLL8CO_jlC5HtvYE0x5Nt8YWQ",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/ntQl",
+      "ip": "192.168.1.101",
+      "views": 3,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/ntQl.png",
+      "showCase": false
+    },
+    {
+      "path": "/xsgv",
+      "ip": "192.168.1.101",
+      "views": 8,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/xsgv.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/hb0E7CmQ_nSqNfOHqXPbc10z7-g4DtYvXiJ34pj8HT8",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/xgvs",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/xgsv",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/xvgs",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/x",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/xvsg",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/xsvg",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/.well-known/acme-challenge/oW7AgusiyBHARBEXqBgvEMDtYnO0acKGYsjbSc4F-1g",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/KGNS40FKuhLCNWDCzwq6YB23Vcbe4BvWurw69dg2tpI",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/asaF0EQ51VKhxvxbs0PDKPCeF1dACCyKYfxxcEeH2rE",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/EMGGHFoU8RG-1KuLCcr1i0pYBPOIRbxonvlTQB6d8mw",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/F596K_4fjxM25-wCzVPHR9smVwXCGMeml3ftVOXKKK4",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/doFzJkNYrwVhZQqGb3cXZOmylbfsJ-Y2iaNC7sgxBis",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/pYfnGayXzJ5X7l2DFqeK0IJ0PuPNmjPEqAT2WTm64d4",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/qTC_m9SpkCBp0YVD9TMB1z6kB11e6qUTj0pzr81EY9M",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/zDURqXNXyXEcAp2mc00XgnEpEWrxax_97C0ilTMZdUw",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/sqckrhHmcoyOWsqvjteM0gIStYGF9BmMWKR4UagMM4c",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/.well-known/acme-challenge/o5dtR70SoEPfIguNDK2mESz3ScmI3cVSOEzwMcf8O68",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/U2A",
+      "ip": "192.168.1.101",
+      "views": 22
+    },
+    {
+      "path": "/.well-known/acme-challenge/CODyB4rN2eZWJxemmTDKQFUpc29XGND3_mjBzYbxOyQ",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/eulF.pdf",
+      "ip": "192.168.1.1",
+      "views": 0,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/eulF.pdf",
+      "showCase": false
+    },
+    {
+      "path": "/KX1D",
+      "ip": "192.168.1.1",
+      "views": 0,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../passwordUploads/KX1D.pdf",
+      "showCase": false
+    },
+    {
+      "path": "/bMMm.pdf",
+      "ip": "192.168.1.1",
+      "views": 10,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/bMMm.pdf",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/U8nYJhmxAG_VGqSqqEGZ5ZfSpNniNMfSBrcr1Ipwo6E",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/RgenvSAYBY2X3fwfbV10q3bORg1ZW21XFQxYEIN_g3I",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/RAip",
+      "ip": "192.168.1.1",
+      "views": 1,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/RAip.png",
+      "showCase": false
+    },
+    {
+      "path": "/VyTt",
+      "ip": "192.168.1.1",
+      "views": 1,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/VyTt.png",
+      "showCase": false
+    },
+    {
+      "path": "/ku3f",
+      "ip": "192.168.1.1",
+      "views": 3,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/ku3f.png",
+      "showCase": false
+    },
+    {
+      "path": "/tu0M",
+      "ip": "192.168.1.1",
+      "views": 2,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/tu0M.png",
+      "showCase": false
+    },
+    {
+      "path": "/lfgI",
+      "ip": "192.168.1.1",
+      "views": 2,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/lfgI.png",
+      "showCase": false
+    },
+    {
+      "path": "/ql6k",
+      "ip": "192.168.1.1",
+      "views": 2,
+      "original": "E:\\Servers\\ShareX-Upload-Server\\src\\server\\routes/../uploads/ql6k.png",
+      "showCase": false
+    },
+    {
+      "path": "/.well-known/acme-challenge/3qGLHdM-g1r4FYUYES2kHFDXuAOH3c0OrKSArpWiRok",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/TqJDy_thLHJxSXsAvzqbU3hllVpTm5GuQuQtKcdxjvg",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/_cjD0iUEa8enouXsq1CNn4OC72q3q1XzImAhQAneOCs",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/.well-known/acme-challenge/9hxojaJqf5o7wrWtx1ZqZl3hH9fq4fVqymcoyzLww_U",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/.well-known/acme-challenge/vh4gq_H36a0pOvJZ6itW8ACP8w9eeT_yU0GdejNZogw",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/kGWpXIMoM7J8NoH1v-CIMfLb_ZKJOjxk4r--md1HgKU",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/a_Xmp7UeUSUsURFVOcxRTQ2vD-m7ejdoOS4kvsSP0J8",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/-e92t761PS4eGkG4pDlqkZsZN7wG0S_M8_M7l3lLdZI",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/.well-known/acme-challenge/WVtbQJEjF7BF888IGZKXE7UxxapfP9_39XtCjSy50W8",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/.well-known/acme-challenge/M66427dh1kJdZT0PM8ARUObzOPOxI1DnoLpNVy0aCn0",
+      "ip": "Unknown",
+      "views": 2
+    },
+    {
+      "path": "/ql6k.png",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/lfgI.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/tu0M.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/ku3f.png",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/VyTt.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/RAip.png",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/xsgv.png",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/ntQl.png",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/ADjF.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/Dxml.png",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/7Chj.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/JZvR.png",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/gzYy.png",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/QAeH.png",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/X6Go.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/Iuy4.png",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/cuZh.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/mZbQ.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/o1vU.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/XvM2.png",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/5WTk.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/snMf.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/rWW1.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/24M3.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/rtmS.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/VYZT.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/Ck2K.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/cm9z.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/4Ynd.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/Crns.png",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/iBgI.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/MFNY.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/ewhc.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/voA6.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/Pjla.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/wzzj.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/XGjU.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/p8VB.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/Zw11.png",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/G8d8.png",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/yLUz.png",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/bzTF.png",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/BTtW.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/WnxH.jpg",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/s5LP.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/CrlK.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/GYuj.jpg",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/Sn5M.jpg",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/2d20.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/AzZT.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/oclo.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/gr14.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/3nCT.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/pfvE.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/wMC0.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/T2mE.png",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/6O54.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/Z7Qc.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/QWMO.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/HdhQ.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/vlza.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/uPHM.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/uiWy.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/fu3b.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/tG4t.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/88tb.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/p66n.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/F4CK.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/AES7.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/pS2d.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/3wwT.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/Vgh8.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/ToYh.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/49iW.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/N7Ri.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/is76.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/uHDl.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/zdC2.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/Vxrm.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/XkFS.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/QoLQ.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/Pqpx.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/hr13.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/bVRG.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/opEC.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/7M5r.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/JzwZ.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/SjWc.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/17EG.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/PGcd.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/o5RL.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/vz3p.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/O356.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/9mIO.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/0HpR.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/WjrI.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/TNwr.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/1QGU.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/78e8.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/2Ww3.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/0wYs.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/mgCl.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/KOrB.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/L5tr.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/4pfQ.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/IYW1.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/tRGe.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/a2IA.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/ajIO.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/KBIl.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/t5WA.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/LvUf.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/DuO0.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/dEVm.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/FgY7.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/S5QM.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/iuxr.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/Qtk4.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/E5kb.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/MzzI.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/DwAW.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/Utoq.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/NsMd.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/h2FF.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/Lypd.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/Uthr.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/aKWp.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/97hl.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/PqG6.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/UI79.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/IcML.png",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/90LR.png",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/s30s.png",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/o2W1.png",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/6rIj.png",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/U2A.html",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/dww",
+      "ip": "192.168.1.1",
+      "views": 1
+    }
+  ],
+  "bans": [],
+  "visitors": [
+    {
+      "date": "2022-09-11T00:04:54.799Z",
+      "ip": "192.168.1.1",
+      "path": "/cn17.png"
+    },
+    {
+      "date": "2022-09-11T00:04:54.828Z",
+      "ip": "192.168.1.1",
+      "path": "/W7K9.png"
+    },
+    {
+      "date": "2022-09-11T00:04:54.928Z",
+      "ip": "192.168.1.1",
+      "path": "/sJks.png"
+    },
+    {
+      "date": "2022-09-11T00:04:54.956Z",
+      "ip": "192.168.1.1",
+      "path": "/r7LH.png"
+    },
+    {
+      "date": "2022-09-11T00:04:54.990Z",
+      "ip": "192.168.1.1",
+      "path": "/W76N.png"
+    },
+    {
+      "date": "2022-09-11T00:04:55.431Z",
+      "ip": "192.168.1.1",
+      "path": "/QeHQ.png"
+    },
+    {
+      "date": "2022-09-11T00:04:55.456Z",
+      "ip": "192.168.1.1",
+      "path": "/fPom.png"
+    },
+    {
+      "date": "2022-09-11T00:04:55.466Z",
+      "ip": "192.168.1.1",
+      "path": "/SMJp.png"
+    },
+    {
+      "date": "2022-09-11T00:04:55.585Z",
+      "ip": "192.168.1.1",
+      "path": "/xD9x.png"
+    },
+    {
+      "date": "2022-09-11T00:04:55.592Z",
+      "ip": "192.168.1.1",
+      "path": "/8Ye7.png"
+    },
+    {
+      "date": "2022-09-11T00:04:55.782Z",
+      "ip": "192.168.1.1",
+      "path": "/YmRG.png"
+    },
+    {
+      "date": "2022-09-11T00:04:55.825Z",
+      "ip": "192.168.1.1",
+      "path": "/3kFX.png"
+    },
+    {
+      "date": "2022-09-11T00:04:55.965Z",
+      "ip": "192.168.1.1",
+      "path": "/pK3h.png"
+    },
+    {
+      "date": "2022-09-11T00:04:55.988Z",
+      "ip": "192.168.1.1",
+      "path": "/6mq8.png"
+    },
+    {
+      "date": "2022-09-11T00:04:56.031Z",
+      "ip": "192.168.1.1",
+      "path": "/Hov8.png"
+    },
+    {
+      "date": "2022-09-11T00:04:56.065Z",
+      "ip": "192.168.1.1",
+      "path": "/xbB2.png"
+    },
+    {
+      "date": "2022-09-11T00:04:57.381Z",
+      "ip": "192.168.1.1",
+      "path": "/T2mE.png"
+    },
+    {
+      "date": "2022-09-11T00:04:59.762Z",
+      "ip": "192.168.1.1",
+      "path": "/T2mE.png"
+    },
+    {
+      "date": "2022-09-11T00:05:07.829Z",
+      "ip": "192.168.1.1",
+      "path": "/U2A.html"
+    },
+    {
+      "date": "2022-09-11T00:06:56.861Z",
+      "ip": "192.168.1.1",
+      "path": "/U2A"
+    },
+    {
+      "date": "2022-09-11T00:06:57.112Z",
+      "ip": "192.168.1.1",
+      "path": "/assets/header.js"
+    },
+    {
+      "date": "2022-09-11T00:06:58.077Z",
+      "ip": "192.168.1.1",
+      "path": "/U2A"
+    },
+    {
+      "date": "2022-09-11T00:06:58.148Z",
+      "ip": "192.168.1.1",
+      "path": "/assets/header.js"
+    },
+    {
+      "date": "2022-09-11T00:07:00.121Z",
+      "ip": "192.168.1.1",
+      "path": "/U2A"
+    },
+    {
+      "date": "2022-09-11T00:07:00.171Z",
+      "ip": "192.168.1.1",
+      "path": "/assets/header.js"
+    },
+    {
+      "date": "2022-09-11T00:07:02.188Z",
+      "ip": "192.168.1.1",
+      "path": "/U2A"
+    },
+    {
+      "date": "2022-09-11T00:07:02.269Z",
+      "ip": "192.168.1.1",
+      "path": "/assets/header.js"
+    },
+    {
+      "date": "2022-09-11T00:08:10.743Z",
+      "ip": "192.168.1.1",
+      "path": "/U2A"
+    },
+    {
+      "date": "2022-09-11T00:08:10.801Z",
+      "ip": "192.168.1.1",
+      "path": "/assets/header.js"
+    },
+    {
+      "date": "2022-09-11T00:11:05.965Z",
+      "ip": "192.168.1.1",
+      "path": "/U2A.html"
+    },
+    {
+      "date": "2022-09-11T00:11:18.413Z",
+      "ip": "192.168.1.1",
+      "path": "/U2A.html"
+    },
+    {
+      "date": "2022-09-11T00:11:18.485Z",
+      "ip": "192.168.1.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-09-11T00:11:18.536Z",
+      "ip": "192.168.1.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-09-11T00:11:22.879Z",
+      "ip": "192.168.1.1",
+      "path": "/U2A.html"
+    },
+    {
+      "date": "2022-09-11T00:33:43.965Z",
+      "ip": "192.168.1.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-09-11T00:33:44.330Z",
+      "ip": "192.168.1.1",
+      "path": "/css/palette1.scss"
+    },
+    {
+      "date": "2022-09-11T00:33:44.360Z",
+      "ip": "192.168.1.1",
+      "path": "/shareserver/afterBox.js"
+    },
+    {
+      "date": "2022-09-11T00:33:44.435Z",
+      "ip": "192.168.1.1",
+      "path": "/shareserver/homepage.js"
+    },
+    {
+      "date": "2022-09-11T00:33:44.577Z",
+      "ip": "192.168.1.1",
+      "path": "/assets/header.js"
+    },
+    {
+      "date": "2022-09-11T00:33:46.078Z",
+      "ip": "192.168.1.1",
+      "path": "/short"
+    },
+    {
+      "date": "2022-09-11T00:33:46.329Z",
+      "ip": "192.168.1.1",
+      "path": "/shareserver/afterBox.js"
+    },
+    {
+      "date": "2022-09-11T00:33:46.380Z",
+      "ip": "192.168.1.1",
+      "path": "/assets/header.js"
+    },
+    {
+      "date": "2022-09-11T00:33:49.891Z",
+      "ip": "192.168.1.1",
+      "path": "/short"
+    },
+    {
+      "date": "2022-09-11T00:33:50.028Z",
+      "ip": "192.168.1.1",
+      "path": "/shareserver/afterBox.js"
+    },
+    {
+      "date": "2022-09-11T00:33:50.076Z",
+      "ip": "192.168.1.1",
+      "path": "/assets/header.js"
+    },
+    {
+      "date": "2022-09-11T00:33:54.691Z",
+      "ip": "192.168.1.1",
+      "path": "/dww"
+    },
+    {
+      "date": "2022-09-11T00:33:54.898Z",
+      "ip": "192.168.1.1",
+      "path": "/assets/header.js"
+    }
+  ],
+  "trafficTotal": [
+    {
+      "month": "1/2022",
+      "total": 742
+    },
+    {
+      "month": "2/2022",
+      "total": 383
+    },
+    {
+      "month": "3/2022",
+      "total": 2707
+    },
+    {
+      "month": "4/2022",
+      "total": 794
+    },
+    {
+      "month": "5/2022",
+      "total": 665
+    },
+    {
+      "month": "6/2022",
+      "total": 231
+    },
+    {
+      "month": "7/2022",
+      "total": 868
+    },
+    {
+      "month": "8/2022",
+      "total": 1024
+    },
+    {
+      "month": "9/2022",
+      "total": 789
+    }
+  ],
+  "passwordUploads": [
+    {
+      "fileName": "fMKx.mp4",
+      "key": "charliew4"
+    },
+    {
+      "fileName": "uvJg.mp3",
+      "key": "charliew4"
+    },
+    {
+      "fileName": "LmSl.jpg",
+      "key": "charliew4"
+    },
+    {
+      "fileName": "KIsF.jpg",
+      "key": "charliew4"
+    },
+    {
+      "fileName": "uG3Y.mp4",
+      "key": "charliew4"
+    }
+  ]
+}
